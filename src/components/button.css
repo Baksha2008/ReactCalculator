@@ -1,0 +1,9 @@
+.otherbtn, .operator, .equally{
+    height: 100px;
+    width: 100px;
+    font-size: 24px;
+    background: lightgrey;
+}
+.operator{
+    background: orangered;
+}
